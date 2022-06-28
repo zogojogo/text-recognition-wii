@@ -16,7 +16,7 @@ The main advantage by using ViTSTR for text recognition is the simplicity and th
 Clone the project
 
 ```bash
-git clone https://gitlab.com/widya-wii/kampus-merdeka/kampus-merdeka-ai/text-recognition-kris.git
+git clone https://github.com/zogojogo/text-recognition-wii.git
 ```
 
 Go to the project directory
