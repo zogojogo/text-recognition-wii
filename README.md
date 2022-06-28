@@ -22,7 +22,7 @@ git clone https://github.com/zogojogo/text-recognition-wii.git
 Go to the project directory
 
 ```bash
-cd text-recognition-kris
+cd text-recognition-wii
 ```
 
 Download Dependencies
